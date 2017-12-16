@@ -1,5 +1,5 @@
 # general configuration
-url: http://www.bhargavmehta.co
+url: http://me.bhargav.blog
 baseurl: ''
 
 # compass configuration
@@ -9,7 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Bhargav Mehta"
   # tagline will appear under the title (optional)
-  tagline: "Good Listner / Coder / Good Learner"
+  tagline: "Magento Developer and WordPress Fan"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
